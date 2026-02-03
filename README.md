@@ -1,16 +1,52 @@
-## Hi there 👋
+<h3>Few Thing About Me:</h3>
+💻 I’m currently working on a new game idea.<br>
+🌱 I love to learn more about game dev.<br>
+🎓 I have finished IT school.<br>
+🏫 I currently study at Uniwersity WSB Merito.<br>
+📅 I work with unity everyday.<br>
+👨‍💻 I have been making games for around 3 years. First with html,css,python and now with unity.<br>
+📤 Some of my games are available on my itch.io profile.<br>
+🎮 I really like to take part in gamejams.
 
-<!--
-**Ksacu/Ksacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3>My social media:</h3>
+<a href="https://ksacu.itch.io/">
+<img src="https://img.shields.io/badge/Itch-red?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<h3>💻 What I use everyday:</h3>
+<p float="left">
+    <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=cshrp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio" />
+    <img src="https://img.shields.io/badge/Github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</p>
+
+<h4>💻 Other things I use:</h4>
+<p float="left">
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+    <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON" />
+</p>
+
+---
+
+<h2 align="center">Few of my projects</h2>
+<p>
+        <h3 align="center">FlowWithTheCat</h3>
+<p align="center">
+    <a href="https://github.com/Ksacu/FlowWithTheCat">
+    <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+    </a>
+    <br>
+    <img <img width="306" height="279" alt="Tło" src="https://github.com/user-attachments/assets/434cf87c-13ea-4697-88f9-091a13654f9a" />
+</p>
+            <p align="center">
+                ...
+            </p>
+</p>
