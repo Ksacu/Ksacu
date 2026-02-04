@@ -52,3 +52,14 @@
             </p>
 </p>
 
+##
+
+<h2 align="center">Other personal projects developed in my free time</h2>
+        <h3 align="center">Sugar Land</h3>
+<p align="center">
+<img width="1919" height="965" alt="Zrzut ekranu 2026-02-04 152904" src="https://github.com/user-attachments/assets/7213a27f-d308-4b87-b8c8-71df45b5d769" />
+</p>
+            <p align="center">
+</p>
+
+
