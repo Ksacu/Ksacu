@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON" />
+    <img width="7%" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt ="C++" />
 </p>
 
 ---
@@ -44,9 +45,10 @@
     <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
     <br>
-    <img <img width="306" height="279" alt="Tło" src="https://github.com/user-attachments/assets/434cf87c-13ea-4697-88f9-091a13654f9a" />
+    <img width="1917" height="1079" alt="Zrzut ekranu 2026-02-04 150358" src="https://github.com/user-attachments/assets/1a4576a2-0970-44ee-9236-594ef4d91cb0" />
 </p>
             <p align="center">
-                ...
+                FlowWithTheCat is my first fully personal project, released as part of a game jam. Inspired by the classic Chrome T-Rex runner, the game introduces new mechanics and ideas to create a more dynamic and engaging gameplay experience. Developing this project    was a great opportunity to learn and experiment with game design.
             </p>
 </p>
+
