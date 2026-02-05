@@ -2,7 +2,7 @@
 💻 I’m currently working on a new game idea.<br>
 🌱 I love to learn more about game dev.<br>
 🎓 I have finished IT school.<br>
-🏫 I currently study at Uniwersity WSB Merito.<br>
+🏫 I’m currently study at Uniwersity WSB Merito.<br>
 📅 I work with unity everyday.<br>
 👨‍💻 I have been making games for around 3 years. First with html,css,python and now with unity.<br>
 📤 Some of my games are available on my itch.io profile.<br>
@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON" />
-    <img width="7%" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt ="C++" />
 </p>
 
 ---
