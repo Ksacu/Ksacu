@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center">Few of my projects</h2>
+<h2 align="center">My projects</h2>
 <p>
         <h3 align="center">FlowWithTheCat</h3>
 <p align="center">
@@ -51,14 +51,35 @@
             </p>
 </p>
 
+<h2 align="center">Other personal projects developed in my free time</h2>
+
+<h3 align="center">Catch The Ball</h3>
+<p align="center">
+<video width="1919" height="965" alt="Zrzut ekranu 2026-02-04 152904" src="https://github.com/user-attachments/assets/5abb4c80-5093-4ca7-b8f0-094bb97dcf63" />
+</p>
+            <p align="center">
+                Catch the Ball is a simple reaction-based game where the player must quickly select the correct objects to continue the gameplay. The main focus is on reflexes, timing, and maintaining focus under increasing difficulty.
+</p>
+
 ##
 
-<h2 align="center">Other personal projects developed in my free time</h2>
-        <h3 align="center">Sugar Land</h3>
+<h3 align="center">Two Directions</h3>
+<p align="center">
+<video width="1919" height="965" alt="Zrzut ekranu 2026-02-04 152904" src="https://github.com/user-attachments/assets/98e22f5c-eac3-4d9f-ae4e-82af10771043" />
+</p>
+            <p align="center">
+                Two Directions features an interesting core mechanic, the player can only move forward and backward. However, a dynamic camera system allows the entire platform to rotate, effectively changing the direction of movement and enabling the player to turn and navigate the level in a unique way.
+</p>
+    
+##
+
+<h3 align="center">Sugar Land</h3>
 <p align="center">
 <img width="1919" height="965" alt="Zrzut ekranu 2026-02-04 152904" src="https://github.com/user-attachments/assets/7213a27f-d308-4b87-b8c8-71df45b5d769" />
 </p>
             <p align="center">
+                Sugar Land is a project that I am currently developing and expanding. It serves as a foundation and experimental base for my future RPG game, where I test mechanics, systems, and gameplay ideas.
 </p>
+
 
 
