@@ -38,6 +38,19 @@
 
 <h2 align="center">My projects</h2>
 <p>
+        <h3 align="center">FindTheWay</h3>
+<p align="center">
+    <a href="[https://github.com/Ksacu/FlowWithTheCat](https://github.com/Kosciach/EscapeRoomGame)">
+    <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+    </a>
+<br>
+    <img width="2530" height="1438" alt="image" src="https://github.com/user-attachments/assets/c801ee6c-095f-4cb6-baff-8f7b93e9ee77" />
+</p>
+            <p align="center">
+                FindTheWay is 3D game made with my friend Kościach for Brackeys Game Jam 2026.1. In this one week game jam we decided to build this interesting short project. The point of the game is to solve a puzzle to unlock new level.
+            </p>
+</p>
+<p>
         <h3 align="center">FlowWithTheCat</h3>
 <p align="center">
     <a href="https://github.com/Ksacu/FlowWithTheCat">
